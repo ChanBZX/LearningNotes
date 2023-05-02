@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "style"
+  ],
+  "interfaceFontFamily": "Microsoft YaHei",
+  "baseFontSize": 13,
+  "cssTheme": "Blue Topaz",
+  "nativeMenus": false
+}

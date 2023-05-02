@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "711958e9403b3b3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "45f858f5e7ce7734",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d469491118ad58c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "acf74d257316ad07",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd9fec9ba9553c55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e21c5cb8d13bf33",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "716740e3afe8651c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c71a4fe297b7d689",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "49f4edbfbfd551aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecd6c66c3df746ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef99ec6b3f2798fe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "53785b0b6a7d7415",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c4052db54d7ca1b3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "00580b46428a2c26",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 201.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "4d469491118ad58c",
+  "lastOpenFiles": [
+    "BasicKnowledge/1.HTML.md",
+    "BasicKnowledge/海报.md",
+    "BasicKnowledge/5.算法.md",
+    "BasicKnowledge/4.Typescript.md",
+    "BasicKnowledge/Projects.md",
+    "BasicKnowledge/z. 项目配置.md",
+    "BasicKnowledge/3. JavaScript.md",
+    "BasicKnowledge/项目配置.md",
+    "BasicKnowledge/1. HTML.md",
+    "BasicKnowledge/2. CSS.md",
+    "BasicKnowledge/1. sadas",
+    "BasicKnowledge/12321",
+    "sortspec.md",
+    "BasicKnowledge/HTML 1.md",
+    "BasicKnowledge/AppLet.md",
+    "cest/vvv.md",
+    "cest/ccc.md",
+    "cest/aaa.md",
+    "BasicKnowledge/sortspec.md",
+    "cest/333",
+    "cest/222",
+    "cest/111",
+    "cest/sortspec.md",
+    "cest/bbb.md",
+    "cest",
+    "BasicKnowledge/Uniapp.md",
+    "BasicKnowledge/Others.md",
+    "BasicKnowledge/Webpack.md",
+    "BasicKnowledge/Vue.md",
+    "未命名 4.md",
+    "BasicKnowledge/Vite.md",
+    "BasicKnowledge/TypeScript.md",
+    "未命名 1",
+    "BasicKnowledge",
+    "面试相关/JavaScript.html",
+    "面试相关"
+  ]
+}

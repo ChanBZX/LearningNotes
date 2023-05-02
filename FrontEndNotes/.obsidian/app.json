@@ -1,0 +1,13 @@
+{
+  "spellcheck": true,
+  "strictLineBreaks": true,
+  "showLineNumber": true,
+  "showFrontmatter": false,
+  "trashOption": "local",
+  "promptDelete": false,
+  "showInlineTitle": true,
+  "useTab": true,
+  "tabSize": 2,
+  "autoConvertHtml": false,
+  "newFileLocation": "current"
+}
